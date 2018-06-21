@@ -90,7 +90,7 @@ var game = guestions[Math.floor(Math.random() * questions.length)];
 
 for (var i = 0; i < questions.length; i++) {
     for (var j = 0; j < answers.length; j++) {
-        
+
     }
 }
 
@@ -131,11 +131,15 @@ var  wrongAnswers= 0;
 if (correctAnswer >= 6) {
     alert("Welcome to the real world!");
     images: pop up from pod
+    end game
+
+
 }
 
-else if (counter = 0 && correctAnswers < 6 || wrongAnswers >= 5) {
+else if (counter = 0 && correctAnswers < 6 || wrongAnswers = 5) {
     alert("The body cannot live without the mind!");
     images: Apoc dropping to floor
+    end game
 }
 */
 
