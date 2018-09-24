@@ -134,7 +134,7 @@ else if (counter = 0 && correctAnswers < 6 || wrongAnswers = 5) {
       if(trivia.timer > -1 && trivia.currentSet < Object.keys(trivia.questions).length){
         $("#timer").text(trivia.timer);
         trivia.timer--;
-          if(trivia.timer === 4){
+          if(trivia.timer === 2){
             $("#timer").addClass("last-seconds");
           }
       }
