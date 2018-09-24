@@ -1,6 +1,6 @@
 # TriviaGame
 
-This trivia game is using html5, CSS3, Bootstrap, and jQuery technoligies to bring enjoyment to the trivia market.
+This trivia game is using html5, CSS3, Bootstrap, and jQuery technologies to bring enjoyment to the trivia market.
 
 To play:
 
