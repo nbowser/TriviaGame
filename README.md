@@ -5,5 +5,5 @@ This trivia game is using HTML5, CSS3, Bootstrap, and jQuery technologies to bri
 To play:
 
 * Click the start button
-* Answer the questions bly clicking the button of your choice (one choice per question)
+* Answer the questions by clicking the button of your choice (one choice per question)
 * See how much you know about the real world!
